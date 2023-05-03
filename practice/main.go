@@ -8,5 +8,4 @@ func main() {
 	colors := []string{"Red", "Green", "Blue"}
 	fmt.Println(colors)
 
-	// No changes made
 }
